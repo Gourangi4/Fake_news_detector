@@ -1,5 +1,5 @@
 # Fake News Detector
-
+https://fake--news--detector.streamlit.app/
 A machine learning project that classifies a news article as Fake or Real. It uses TF-IDF text features with classic ML models, and includes a Streamlit web app that shows the prediction, a confidence score, and the words that influenced the result.
 
 ## Features
